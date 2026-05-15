@@ -239,7 +239,7 @@ data = [
         "bt": "India's First Commercial 28nm Mega-Fab.", 
        # Updated list with HTML formatting to fit your frame requirements
 "imgs":  [
-    f'<img src="{url}" style="width:880px; height:399px; object-fit:cover; border-radius:10px; font-size:16px;" />'
+    f'<img src="{url}" style="width:500px; height:200px; object-fit:cover; border-radius:10px; font-size:16px;" />'
     for url in [
         "https://www.instagram.com/p/DN98esSk-AU/",
         "https://www.instagram.com/p/DRd_6ANDJ5Y/",
