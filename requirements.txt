@@ -10,3 +10,6 @@ feedparser
 requests
 folium
 streamlit-folium
+ base64
+ os
+
