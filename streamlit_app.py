@@ -12,6 +12,23 @@ import datetime
 import folium
 from streamlit_folium import st_folium
 
+import base64
+import os
+
+def get_base64_image(image_path):
+    """Reads a local image file and converts it to an encoded base64 string for HTML embedding."""
+    try:
+        if os.path.exists(image_path):
+            with open(image_path, "rb") as img_file:
+                return f"data:image/jpeg;base64,{base64.b64encode(img_file.read()).decode()}"
+        return "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80" # Stable fallback URL if file path breaks
+    except:
+        return "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80"
+
+
+
+
+
 # --- 1. PROFESSIONAL PAGE CONFIG & CSS ---
 st.set_page_config(layout="wide", page_title="Strategic Topography GIS", page_icon="🗺️")
 
@@ -238,13 +255,15 @@ data = [
         "l_name": "Ahmedabad Urban Center", "l_lat": 23.02, "l_lon": 72.57, "l_dist": 85,
         "bt": "India's First Commercial 28nm Mega-Fab.", 
        # Updated list with HTML formatting to fit your frame requirements
-"imgs": [
+"bt": "India's First Commercial 28nm Mega-Fab.", 
+        "imgs": [
             f'<img class="slider-img" src="{url}" style="width:100%;">'
             for url in [
-                "dholera_fab.jpg",  # <-- Your local uploaded file name goes here!
-                "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80"  # (Optional: a stable direct web image)
+                get_base64_image("dholera_fab.jpg"), # Encodes the file dynamically into standard HTML-readable data
+                "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80"
             ]
         ],
+        "profile": [0, 8, 3, 14, 15, 15, 15, 15, 11, 4, 5],
 
 # To display these in Streamlit, use:
 # for img_html in imgs:
