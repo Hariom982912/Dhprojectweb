@@ -238,16 +238,14 @@ data = [
         "l_name": "Ahmedabad Urban Center", "l_lat": 23.02, "l_lon": 72.57, "l_dist": 85,
         "bt": "India's First Commercial 28nm Mega-Fab.", 
        # Updated list with HTML formatting to fit your frame requirements
-"imgs":  [
-    f'<img src="{url}" style="width:500px; height:200px; object-fit:cover; border-radius:10px; font-size:16px;" />'
+"imgs": [
+    f'<img src="{url}" style="width:100%; height:260px; object-fit:cover; border-radius:4px;" />'
     for url in [
-        "https://www.instagram.com/p/DN98esSk-AU/",
-        "https://www.instagram.com/p/DRd_6ANDJ5Y/",
-        "https://mirrikh.com/tata-semiconductor-plant-in-dholera-investment-jobs/",
-        "https://www.outlookbusiness.com/corporate/tata-electronics-sends-200-personnel-to-taiwan-for-psmc-training-as-91000cr-dholera-fab-advances",
-        "https://www.facebook.com/dholeraawareness/posts/tata-is-king-%EF%B8%8Findias-biggest-semiconductor-plant-is-coming-to-dholera-gujarat-ta/835250015926192/"
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1590247813693-5541d1c609fd?auto=format&fit=crop&w=800&q=80"
     ]
-],
+],,
 
 # To display these in Streamlit, use:
 # for img_html in imgs:
