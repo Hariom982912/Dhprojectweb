@@ -239,13 +239,12 @@ data = [
         "bt": "India's First Commercial 28nm Mega-Fab.", 
        # Updated list with HTML formatting to fit your frame requirements
 "imgs": [
-    f'<img src="{url}" style="width:100%; height:260px; object-fit:cover; border-radius:4px;" />'
-    for url in [
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-        "https://images.unsplash.com/photo-1590247813693-5541d1c609fd?auto=format&fit=crop&w=800&q=80"
-    ]
-],
+            f'<img class="slider-img" src="{url}" style="width:100%;">'
+            for url in [
+                "dholera_fab.jpg",  # <-- Your local uploaded file name goes here!
+                "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80"  # (Optional: a stable direct web image)
+            ]
+        ],
 
 # To display these in Streamlit, use:
 # for img_html in imgs:
