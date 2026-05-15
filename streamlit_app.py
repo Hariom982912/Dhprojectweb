@@ -245,7 +245,7 @@ data = [
         "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
         "https://images.unsplash.com/photo-1590247813693-5541d1c609fd?auto=format&fit=crop&w=800&q=80"
     ]
-],,
+],
 
 # To display these in Streamlit, use:
 # for img_html in imgs:
