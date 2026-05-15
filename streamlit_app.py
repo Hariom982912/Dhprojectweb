@@ -238,7 +238,7 @@ data = [
         "l_name": "Ahmedabad Urban Center", "l_lat": 23.02, "l_lon": 72.57, "l_dist": 85,
         "bt": "India's First Commercial 28nm Mega-Fab.", 
        # Updated list with HTML formatting to fit your frame requirements
-"imgs": = [
+"imgs":  [
     f'<img src="{url}" style="width:880px; height:399px; object-fit:cover; border-radius:10px; font-size:16px;" />'
     for url in [
         "https://www.instagram.com/p/DN98esSk-AU/",
@@ -348,7 +348,7 @@ data = [
         "m_name": "Northern Rail Depot", "m_lat": 30.50, "m_lon": 76.80, "m_dist": 24,
         "l_name": "Chandigarh Sector 17", "l_lat": 30.73, "l_lon": 76.77, "l_dist": 10,
         "bt": "ISRO space-grade military 180nm CMOS nodes.", 
-        "imgs": = [
+        "imgs":[
     f'<img src="{url}" style="width:880px; height:399px; object-fit:cover; border-radius:10px; font-size:16px;" />'
     for url in [
         "https://x.com/Amarrrrz/status/1994685333871468915",
@@ -371,7 +371,7 @@ data = [
         "m_name": "JNPT Port Transit", "m_lat": 18.95, "m_lon": 72.90, "m_dist": 60,
         "l_name": "Mumbai Metropolis", "l_lat": 19.07, "l_lon": 72.87, "l_dist": 5,
         "bt": "Power semiconductor devices for Indian Railways.", 
-       "imgs": = [
+       "imgs": [
     f'<img src="{url}" style="width:880px; height:399px; object-fit:cover; border-radius:10px; font-size:16px;" />'
     for url in [
         "https://www.moneycontrol.com/news/business/markets/hind-rectifiers-acquires-france-based-belink-in-major-boost-to-global-footprint-shares-locked-at-5-percent-upper-circuit-13560062.html",
@@ -394,7 +394,7 @@ data = [
         "m_name": "Hyderabad Airport Cargo", "m_lat": 17.25, "m_lon": 78.43, "m_dist": 35,
         "l_name": "HITEC City Hub", "l_lat": 17.44, "l_lon": 78.38, "l_dist": 5,
         "bt": "Snapdragon design and validation mega-center.", 
-        "imgs": = [
+        "imgs": [
     f'<img src="{url}" style="width:880px; height:399px; object-fit:cover; border-radius:10px; font-size:16px;" />'
     for url in [
         "image_3ee2fa.jpg",
@@ -417,7 +417,7 @@ data = [
         "m_name": "HAL Airport Data Transit", "m_lat": 12.95, "m_lon": 77.66, "m_dist": 12,
         "l_name": "Electronics City Grid", "l_lat": 12.93, "l_lon": 77.69, "l_dist": 5,
         "bt": "Global validation and testing engineering hub.", 
-        "imgs": = [
+        "imgs":[
     f'<img src="{url}" style="width:880px; height:399px; object-fit:cover; border-radius:10px; font-size:16px;" />'
     for url in [
         "https://www.manufacturingtodayindia.com/tessolve-partners-with-keysight-to-boost-high-speed-semiconductor-testing",
@@ -440,7 +440,7 @@ data = [
         "m_name": "NCR Rail Corridor", "m_lat": 28.70, "m_lon": 77.25, "m_dist": 10,
         "l_name": "Delhi Urban Grid", "l_lat": 28.67, "l_lon": 77.22, "l_dist": 5,
         "bt": "India's first fabless design and discrete transistor manufacturing.", 
-        "imgs": = [
+        "imgs": [
     f'<img src="{url}" style="width:880px; height:399px; object-fit:cover; border-radius:10px; font-size:16px;" />'
     for url in [
         "https://x.com/SemiconIndia/status/1961718594007683232",
