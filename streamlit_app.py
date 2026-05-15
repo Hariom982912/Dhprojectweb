@@ -285,7 +285,7 @@ data = [
         "m_name": "Mundra Port Transit", "m_lat": 22.80, "m_lon": 72.00, "m_dist": 250,
         "l_name": "Sanand Industrial GIDC", "l_lat": 22.95, "l_lon": 72.38, "l_dist": 5,
         "bt": "High Bandwidth Memory (HBM) ATMP validation.", 
-        "imgs": = [
+        "imgs": [
     f'<img src="{url}" style="width:880px; height:399px; object-fit:cover; border-radius:10px; font-size:16px;" />'
     for url in [
         "https://www.techpowerup.com/346914/micron-celebrates-opening-of-indias-first-semiconductor-assembly-and-test-facility",
