@@ -278,11 +278,11 @@ data = [
         "l_name": "Sanand Industrial GIDC", "l_lat": 22.95, "l_lon": 72.38, "l_dist": 5,
         "bt": "High Bandwidth Memory (HBM) ATMP validation.", 
         "imgs": [
-            "https://www.techpowerup.com/346914/micron-celebrates-opening-of-indias-first-semiconductor-assembly-and-test-facility",
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNsNv0CW87kzwywihofNSAPY-IzEpdo5cIIw&s",
-            "https://dailypioneer.com/news/pm-narendra-modi-inaugurates-semiconductor-plant-at-sanand",
-            "https://www.deccanherald.com/india/gujarat/pm-inaugurates-semiconductor-plant-at-sanand-says-india-is-making-its-mark-in-hardware-too-3915406",
-            "https://www.hindustantimes.com/business/micron-begins-construction-of-2-75-billion-semiconductor-plant-in-gujarat-101695478422567.html"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgSrtNGF8G41a62z7GmFRzRcTxPCNulJl_4w&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjd9bUQwWsfHEFtfIiW_sTMMwJ5dARP2d8ig&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlaVEm5SHRQvHiLLdkiGjAWsSlfM5wAR4eHA&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_CB9AE1nWe1agwUVKYy8pwRtoXv_cpOWcYQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEkIjQ0vhv-5pDI9li6Nxwah3AoMdk-8bT_Q&s"
         ],
         "profile": [10, 18, 12, 35, 45, 45, 45, 42, 48, 44, 48],
         "sti": 92.0, "lcp": 0.90,
@@ -400,11 +400,11 @@ data = [
         "l_name": "Electronics City Grid", "l_lat": 12.93, "l_lon": 77.69, "l_dist": 5,
         "bt": "Global validation and testing engineering hub.", 
         "imgs": [
-            "https://www.manufacturingtodayindia.com/tessolve-partners-with-keysight-to-boost-high-speed-semiconductor-testing",
-            "https://www.ambitionbox.com/overview/tessolve-overview/locations/bengaluru-offices",
-            "https://www.ambitionbox.com/overview/tessolve-overview/locations/bengaluru-offices",
-            "https://www.highperformr.ai/company/tessolve-services-pvt-ltd",
-            "https://www.marcamoney.com/hero-electronixs-semiconductor-firm-tessolve-raises-150-million-in-funding-from-tpg/"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsHguN7kiv04HTCal4HbIpwsAmTrBqCIhX4Q&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2H1bSCyye1mYNnpVyD-5oO5B2gB0qC1Gzeg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyw7yUuhTU00Y3WjjXwGStNmVtkQuAdUaoYg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2CimHwBpFhRd1qf8w2zOsqe9HtDhHZ6e3HA&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSypG_I7KqFoJp4IW61CXXghjQ0JbSt6Lzglw&s"
         ],
         "profile": [860, 880, 890, 910, 910, 910, 910, 890, 880, 870, 860],
         "sti": 89.0, "lcp": 0.88,
@@ -420,11 +420,11 @@ data = [
         "l_name": "Delhi Urban Grid", "l_lat": 28.67, "l_lon": 77.22, "l_dist": 5,
         "bt": "India's first fabless design and discrete transistor manufacturing.", 
         "imgs": [
-            "https://x.com/SemiconIndia/status/1961718594007683232",
-            "https://www.forbesindia.com/article/take-one-big-story-of-the-day/cdil-has-led-the-way-in-semiconductor-manufacturing-for-six-decades-whats-next/88797/1",
-            "https://www.cdil.com/news/2021/10/23/we-are-hiring",
-            "https://www.instagram.com/p/DN-OzU8kzye/",
-            "https://www.linkedin.com/posts/cdil_siliconcarbide-activity-7115274106970791938-qQwa"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMl62EAf09AhiNFY79NV0f2DECRiVEdKPVEA&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu65GwXLgMmVBWgWKxZg010uOgJOGENqvhYA&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGTetRgP4UDqEg_Q1X7EsU5CK-fS5x4mYo5w&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrChTdIxc0eiciT-Z6_hHBtMIm7Jtys-O6Eg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_9tCNN4m5mSB47CsgeRjaSbvkZCHLZ8Pgw&s"
         ],
         "profile": [190, 195, 200, 210, 210, 210, 210, 200, 198, 195, 190],
         "sti": 78.0, "lcp": 0.65,
