@@ -262,7 +262,7 @@ data = [
             "https://overseas.mofa.go.kr/upload/se2/0e0856c8-d90e-4c16-a137-bb1ede26971b.jpg",
             "https://www.sify.com/wp-content/uploads/2025/07/tata.webp",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTry5f5IHoA0HtAd_99ydjs-TnrcW7lKyKS4w&s",
-            "https://www.hindustantimes.com/ht-img/img/2025/11/…ter-Nirmala-Sitharaman-during-h_1762535708736.jpg"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccWCs60jCrPVJp_VM5NWI_m7QJnegBOCJLA&s"
         ],
         "profile": [120, 140, 85, 40, 55, 55, 55, 80, 130, 95, 110],
         "sti": 84.4, "lcp": 0.70,
