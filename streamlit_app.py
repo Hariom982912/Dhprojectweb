@@ -300,7 +300,7 @@ data = [
         "imgs": [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSSWBpNeO5NVAyODDbK7VKyZIsNHEUS2nyeA&s",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfK4maL87BKAMgmkSZxoM2n9A0zHsPLj5ZtQ&s",
-            "https://www.linkedin.com/posts/mohit-khannaa-5355b414_semiconductors-indiainnovation-makeinindia-activity-7367170014891769857-dMYZ",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStzdh7fndihrxRra0VJUpHt7r79ZlTgcKSng&s",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS06DWbbdrGl1y9jPb6W9wLkIleWvv25c9ikg&s",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPWCYu6aULoL1DkobFrHOPy-yZ4pcoCf-keg&s"
         ],
