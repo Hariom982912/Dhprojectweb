@@ -338,11 +338,11 @@ data = [
         "l_name": "Chandigarh Sector 17", "l_lat": 30.73, "l_lon": 76.77, "l_dist": 10,
         "bt": "ISRO space-grade military 180nm CMOS nodes.", 
         "imgs": [
-            "https://x.com/Amarrrrz/status/1994685333871468915",
-            "https://www.scl.gov.in/annual_report/AR23-24.pdf",
-            "https://www.careerpower.in/blog/scl-assistant-result-2025",
-            "https://www.instagram.com/p/DRorvIeGAkc/",
-            "https://www.scl.gov.in/img/achievements/Vikram3201.png",
+            "	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHJzdmNwq4JdpRKfaZyKYGHVrGmKIEb0A-4w&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYeaVtccTdkLEqIWjqVn7l9MBVL_y6w6I7g&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk9ldwi8PJ7vNwe4e8ky6EyRCfShK2rZvg5Q&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbENqTRucPPK_5-uRqCFcs69A9oqpXIZD2zA&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYImLK1NTJsur09MyfX5YmlB7pfXs4gHuXEg&s",
             
         ],
         "profile": [280, 270, 295, 285, 310, 310, 310, 340, 320, 370, 380],
