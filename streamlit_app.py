@@ -239,10 +239,10 @@ data = [
         "bt": "India's First Commercial 28nm Mega-Fab.", 
         "imgs": [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ObzgCf1S3LT2wvFdVaET9EaQbP7Ve7Qyjg&s",
-            "https://overseas.mofa.go.kr/upload/se2/0e0856c8-d90e-4c16-a137-bb1ede26971b.jpg",
-            "https://www.sify.com/wp-content/uploads/2025/07/tata.webp",
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTry5f5IHoA0HtAd_99ydjs-TnrcW7lKyKS4w&s",
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccWCs60jCrPVJp_VM5NWI_m7QJnegBOCJLA&s"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9GWZFB4S83i1-dcVnGuC5G2Bie76gmJ96Eg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-xDFN8yFoM0m_2BrwJv68aDMtN4p6ylVpQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPJY06c3N5uwNT67c7kn6Igs0Y5RbqsCh4eg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ94LnttT7DfLzDRskuXc8piKc8wBJgNQIMJw&s"
         ],
         "profile": [0, 8, 3, 14, 15, 15, 15, 15, 11, 4, 5], 
         "sti": 99.5, "lcp": 0.97,
