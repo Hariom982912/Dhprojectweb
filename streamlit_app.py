@@ -359,11 +359,11 @@ data = [
         "l_name": "Mumbai Metropolis", "l_lat": 19.07, "l_lon": 72.87, "l_dist": 5,
         "bt": "Power semiconductor devices for Indian Railways.", 
         "imgs": [
-            "https://www.moneycontrol.com/news/business/markets/hind-rectifiers-acquires-france-based-belink-in-major-boost-to-global-footprint-shares-locked-at-5-percent-upper-circuit-13560062.html",
-            "https://www.linkedin.com/posts/hirect_budapest-europe-electrostaticprecipitators-activity-6991380991403577345-fa4W",
-            "https://media.licdn.com/dms/image/v2/C5622AQEz12W6TQKZug/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1640850225154?e=2147483647&v=beta&t=LWm5TrnozBO5JgL9GWxIKgW9DKptjSSrdSahr2b-yI0",
-            "https://www.linkedin.com/posts/suramyanevatia_innovation-powerelectronics-madeinindia-activity-7308333932951793664-igpH",
-            "https://scanx.trade/stock-market-news/stocks/hind-rectifiers-limited-announces-key-management-appointments-with-new-global-ceo-and-company-secretary/31345432"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShbPtiaRpmfFrL2x2WEaBpD0l5pwZ9ut1mIg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAL7B3r4loi3W19ajNMPXoSrbRVsQkQKH71g&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPYkJgVLZjSd3q2QQeEnADFa8ZrA6KKsAJZg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFA1YI56-4Mjzsf2TWUw4vY1fTVZlfHV_Qw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxM1T7Z563nKe5pN0gmrzZ5x5cKjbgKNWYAQ&s"
         ],
         "profile": [2, 12, 5, 10, 10, 10, 10, 12, 9, 7, 8],
         "sti": 91.5, "lcp": 0.92,
