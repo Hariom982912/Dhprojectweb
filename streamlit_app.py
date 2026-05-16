@@ -298,7 +298,7 @@ data = [
         "l_name": "Ahmedabad Urban Grid", "l_lat": 23.02, "l_lon": 72.57, "l_dist": 25,
         "bt": "Specialized OSAT for consumer and industrial ICs.", 
         "imgs": [
-            "https://www.facebook.com/meityindia/posts/cg-semi-pvt-ltd-is-a-joint-venture-of-cg-power-india-renesas-japan-and-stars-mic/1089639610018476/",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSSWBpNeO5NVAyODDbK7VKyZIsNHEUS2nyeA&s",
             "https://www.linkedin.com/pulse/36-million-indias-cg-power-acquires-renesas-electronics-dvfec",
             "https://www.linkedin.com/posts/mohit-khannaa-5355b414_semiconductors-indiainnovation-makeinindia-activity-7367170014891769857-dMYZ",
             "https://in.linkedin.com/company/cg-semi-private-limited",
