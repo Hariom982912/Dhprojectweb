@@ -261,7 +261,7 @@ data = [
             "https://www.tataelectronics.com/documents/60635/2181331/osat-gd-karnataka.webp/de5fa50a-01bb-59d8-9cc5-6c8bc40b7389?t=1749455231235",
             "https://overseas.mofa.go.kr/upload/se2/0e0856c8-d90e-4c16-a137-bb1ede26971b.jpg",
             "https://www.sify.com/wp-content/uploads/2025/07/tata.webp",
-            "https://akm-img-a-in.tosshub.com/businesstoday/ima…-green-light-soon-153347842-16x9.jpg?size=948:533",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTry5f5IHoA0HtAd_99ydjs-TnrcW7lKyKS4w&s",
             "https://www.hindustantimes.com/ht-img/img/2025/11/…ter-Nirmala-Sitharaman-during-h_1762535708736.jpg"
         ],
         "profile": [120, 140, 85, 40, 55, 55, 55, 80, 130, 95, 110],
