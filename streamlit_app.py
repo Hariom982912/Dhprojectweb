@@ -238,11 +238,11 @@ data = [
         "l_name": "Ahmedabad Urban Center", "l_lat": 23.02, "l_lon": 72.57, "l_dist": 85,
         "bt": "India's First Commercial 28nm Mega-Fab.", 
         "imgs": [
-            f'<iframe src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ObzgCf1S3LT2wvFdVaET9EaQbP7Ve7Qyjg&s"></iframe>',
-            f'<iframe src="https://www.instagram.com/p/DRd_6ANDJ5Y/" width="870" height="390" style="border:none;"></iframe>',
-            f'<iframe src="https://mirrikh.com/tata-semiconductor-plant-in-dholera-investment-jobs/" width="870" height="390" style="border:none;"></iframe>',
-            f'<iframe src="https://www.outlookbusiness.com/corporate/tata-electronics-sends-200-personnel-to-taiwan-for-psmc-training-as-91000cr-dholera-fab-advances" width="870" height="390" style="border:none;"></iframe>',
-            f'<iframe src="https://www.facebook.com/dholeraawareness/posts/tata-is-king-%EF%B8%8Findias-biggest-semiconductor-plant-is-coming-to-dholera-gujarat-ta/835250015926192/" width="870" height="390" style="border:none;"></iframe>'
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ObzgCf1S3LT2wvFdVaET9EaQbP7Ve7Qyjg&s",
+            "https://overseas.mofa.go.kr/upload/se2/0e0856c8-d90e-4c16-a137-bb1ede26971b.jpg",
+            "https://www.sify.com/wp-content/uploads/2025/07/tata.webp",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTry5f5IHoA0HtAd_99ydjs-TnrcW7lKyKS4w&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccWCs60jCrPVJp_VM5NWI_m7QJnegBOCJLA&s"
         ],
         "profile": [0, 8, 3, 14, 15, 15, 15, 15, 11, 4, 5], 
         "sti": 99.5, "lcp": 0.97,
