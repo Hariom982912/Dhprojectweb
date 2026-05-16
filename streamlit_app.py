@@ -238,7 +238,7 @@ data = [
         "l_name": "Ahmedabad Urban Center", "l_lat": 23.02, "l_lon": 72.57, "l_dist": 85,
         "bt": "India's First Commercial 28nm Mega-Fab.", 
         "imgs": [
-            f'<iframe src="https://www.instagram.com/p/DN98esSk-AU/" width="870" height="390" style="border:none;"></iframe>',
+            f'<iframe src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ObzgCf1S3LT2wvFdVaET9EaQbP7Ve7Qyjg&s"></iframe>',
             f'<iframe src="https://www.instagram.com/p/DRd_6ANDJ5Y/" width="870" height="390" style="border:none;"></iframe>',
             f'<iframe src="https://mirrikh.com/tata-semiconductor-plant-in-dholera-investment-jobs/" width="870" height="390" style="border:none;"></iframe>',
             f'<iframe src="https://www.outlookbusiness.com/corporate/tata-electronics-sends-200-personnel-to-taiwan-for-psmc-training-as-91000cr-dholera-fab-advances" width="870" height="390" style="border:none;"></iframe>',
