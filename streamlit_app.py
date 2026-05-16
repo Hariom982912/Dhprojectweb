@@ -260,9 +260,9 @@ data = [
         "imgs": [
             "https://www.tataelectronics.com/documents/60635/2181331/osat-gd-karnataka.webp/de5fa50a-01bb-59d8-9cc5-6c8bc40b7389?t=1749455231235",
             "https://overseas.mofa.go.kr/upload/se2/0e0856c8-d90e-4c16-a137-bb1ede26971b.jpg",
-            "https://x.com/aidc_ltd/status/1893261957219680421",
-            "https://www.tataelectronics.com/semiconductor-assembly-and-test",
-            "https://medial.app/news/tata-group-submits-application-to-set-up-semiconductor-processing-plant-in-assam-to-invest-rs-40000-crore-ed184aabbb3e8"
+            "https://scontent.ftrv2-1.fna.fbcdn.net/v/t39.30808…WzOFgniGMl5Q72VMu9cz1WjmGG34ZXlWBwA7Q&oe=6A0E9ED3",
+            "https://akm-img-a-in.tosshub.com/businesstoday/ima…-green-light-soon-153347842-16x9.jpg?size=948:533",
+            "https://www.hindustantimes.com/ht-img/img/2025/11/…ter-Nirmala-Sitharaman-during-h_1762535708736.jpg"
         ],
         "profile": [120, 140, 85, 40, 55, 55, 55, 80, 130, 95, 110],
         "sti": 84.4, "lcp": 0.70,
