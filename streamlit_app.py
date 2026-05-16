@@ -318,11 +318,11 @@ data = [
         "l_name": "Bangalore Urban Grid", "l_lat": 12.97, "l_lon": 77.59, "l_dist": 2,
         "bt": "First Global R&D Center in India.", 
         "imgs": [
-            "https://careers.ti.com/en/sites/CX/pages/asia-pacific",
-            "https://www.facebook.com/texasinstrumentsindia/posts/ti-india-recently-inaugurated-its-new-sales-office-on-old-madras-road-in-bangalo/1103024355205588/",
-            "https://evtechnews.in/texas-instruments-showcases-energy-efficient-and-smart-semiconductor-solutions-at-electronica-india-2025/",
-            "https://www.indiamart.com/texas-instruments-india-pvt-ltd/aboutus.html?srsltid=AfmBOoppgQ98YGGa8v0MomYAbq0Nl8kvDpc9gorLJUDfVsLvlKjIkap7",
-            "https://www.linkedin.com/posts/analytics-india-magazine_texas-instruments-marked-40-years-in-india-activity-7426150300266307584-b_3h"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxXejQ8u8Pn0OYSyCQ03lzTBSjTp7db2NOPw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUwNdWLTg2XCYVAQ3jmQvC4TP4PMKnLDnlcQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKdcuuE_Pg8CoIA7q6S7Ig8F5LHRHKPY_RRg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSef8as_NeLUsQ03_nVtXXD-xKCd3jGHUTm-Q&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxYCeRgMUAF9J7ODL7sta3_Daz0sxrPIdKMQ&s"
         ],
         "profile": [850, 890, 860, 910, 920, 920, 920, 890, 915, 870, 880],
         "sti": 88.0, "lcp": 0.85,
