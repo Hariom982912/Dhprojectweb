@@ -379,11 +379,11 @@ data = [
         "l_name": "HITEC City Hub", "l_lat": 17.44, "l_lon": 78.38, "l_dist": 5,
         "bt": "Snapdragon design and validation mega-center.", 
         "imgs": [
-            "image_3ee2fa.jpg",
-            "https://www.businessworld.in/article/qualcomm-completes-2nm-chip-tape-out-from-its-india-labs-592628",
-            "https://in.pinterest.com/pin/qualcomms-largest-office-in-india--1151162354726408397/",
-            "https://www.etvbharat.com/en/technology/qualcomm-to-host-snapdragon-for-india-event-on-may-7-to-showcase-new-technologies-and-chips-for-next-gen-devices-enn26042801889",
-            "https://www.business-standard.com/article/technology/qualcomm-to-open-its-2nd-largest-office-outside-us-in-hyderabad-by-october-122032201360_1.html"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtn1WA4PQNahSDyx4FUoFRqtnNA1cEpARa3Q&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoFpDUC45wO71Ubowl0W8BWu2Iu9jGlJcCw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2DdCMHeZ2FEXYjixn3cgg9won3bHIWwFRew&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsoq1j0HQEhwZbU1DFeVBbBjIl9K5b4lESXQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTks_SsSrVL9_zEJYi46qmLaCFA1ikbmRv2SA&s"
             
         ],
         "profile": [500, 520, 530, 550, 550, 550, 550, 530, 510, 500, 490],
