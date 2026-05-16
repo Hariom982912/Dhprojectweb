@@ -259,7 +259,7 @@ data = [
         "bt": "Sovereign Advanced Packaging Hub.", 
         "imgs": [
             "https://www.tataelectronics.com/documents/60635/2181331/osat-gd-karnataka.webp/de5fa50a-01bb-59d8-9cc5-6c8bc40b7389?t=1749455231235",
-            "https://www.tataelectronics.com/documents/60635/21…fa50a-01bb-59d8-9cc5-6c8bc40b7389?t=1749455231235",
+            "https://overseas.mofa.go.kr/upload/se2/0e0856c8-d90e-4c16-a137-bb1ede26971b.jpg",
             "https://x.com/aidc_ltd/status/1893261957219680421",
             "https://www.tataelectronics.com/semiconductor-assembly-and-test",
             "https://medial.app/news/tata-group-submits-application-to-set-up-semiconductor-processing-plant-in-assam-to-invest-rs-40000-crore-ed184aabbb3e8"
