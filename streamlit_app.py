@@ -299,10 +299,10 @@ data = [
         "bt": "Specialized OSAT for consumer and industrial ICs.", 
         "imgs": [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSSWBpNeO5NVAyODDbK7VKyZIsNHEUS2nyeA&s",
-            "https://www.linkedin.com/pulse/36-million-indias-cg-power-acquires-renesas-electronics-dvfec",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfK4maL87BKAMgmkSZxoM2n9A0zHsPLj5ZtQ&s",
             "https://www.linkedin.com/posts/mohit-khannaa-5355b414_semiconductors-indiainnovation-makeinindia-activity-7367170014891769857-dMYZ",
-            "https://in.linkedin.com/company/cg-semi-private-limited",
-            "https://www.linkedin.com/posts/semiconfab_semiconductors-makeinindia-gujarat-activity-7174273653260304384-Z_Kk"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS06DWbbdrGl1y9jPb6W9wLkIleWvv25c9ikg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPWCYu6aULoL1DkobFrHOPy-yZ4pcoCf-keg&s"
         ],
         "profile": [20, 28, 22, 38, 43, 43, 43, 40, 48, 42, 46],
         "sti": 89.0, "lcp": 0.88,
